@@ -21,12 +21,12 @@ print("String dalam huruf besar: %s" % s.upper())
 print("String dalam huruf kecil: %s" % s.lower())
 
 # cek bagaimana string itu dimulai
-if s.startswith("Str"):
- print("String dimulai dengan 'Str'. Good!")
+if s.startswith("Let's"):
+ print("String dimulai dengan 'Let's'. Good!")
 
 # cek bagaimana string itu diakhiri
-if s.endswith("ome!"):
- print("String diakhiri dengan 'ome!'. Good!")
+if s.endswith("Everyday"):
+ print("String diakhiri dengan 'Everyday'. Good!")
 
 # Pisahkan string menjadi tiga string yang terpisah,
 # masing-masing hanya berisi satu kata
