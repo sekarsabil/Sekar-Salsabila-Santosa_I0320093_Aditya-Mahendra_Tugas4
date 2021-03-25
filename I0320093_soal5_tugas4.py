@@ -1,4 +1,4 @@
-s = "Let's Learn Everyday"
+s ="Let's Learn Everyday"
 
 # Panjangnya harusnya 20
 print("panjang dari s = %d" % len(s))
