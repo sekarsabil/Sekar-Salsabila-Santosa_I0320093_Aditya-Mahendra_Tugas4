@@ -1,5 +1,5 @@
 # Berat Maksimal Bagasi
-berat_maksimal = 22
+berat_maksimal = 22     # 50 lbs = 22 kg
 
 # Input Berat Bagasi A
 A = int(input("Masukkan Berat Bagasi A (kg) = "))  #Untuk Berat Bagasi 49 kg
